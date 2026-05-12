@@ -1,5 +1,4 @@
 # CyberTest-Tool
-help
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import asyncio, aiohttp, random, time, json, os, sys, threading, subprocess, shutil, re, logging, socket, datetime, uuid, requests, itertools, httpx, tracemalloc, sqlite3, hashlib, base64, string, psutil, traceback
